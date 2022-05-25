@@ -1,0 +1,14 @@
+name: "robert-cope"
+navbar:
+  title: "Robert C. Cope personal website"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<rcope4@une.edu.au>
+    - icon: fa-github fa-lg
+      href: http://github.com/robert-cope/
+output:
+  html_document:
+    theme: cerulean

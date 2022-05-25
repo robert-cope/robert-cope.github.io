@@ -1,0 +1,16 @@
+---
+  title: "Robert Cope personal website"
+---
+  
+I am now a Lecturer in Statistics at the University of New England in Armidale, NSW, Australia.
+
+Previously I was Lecturer in the Biological Data Science Institute at the Australian National University. I completed my PhD on the population genetics of dugongs at the University of Queensland in 2014.
+
+I'm interested in applied stochastic modelling and Bayesian statistics in the biological sciences.
+
+[UNE profile](https://www.une.edu.au/staff-profiles/science-and-technology/robert-cope)
+
+[Google Scholar](https://scholar.google.com.au/citations?user=hJFMR44AAAAJ)
+
+[ORCID](https://orcid.org/0000-0002-2048-858X)
+
